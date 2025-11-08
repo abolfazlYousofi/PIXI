@@ -1,6 +1,7 @@
 # Pixi
 
 Pixi is a Flutter mobile application that provides user authentication through multiple methods including email/password, Google Sign-In, and phone number verification.
+and at fiuture this app can make the better resolotion of picture.
 
 ## Features
 
